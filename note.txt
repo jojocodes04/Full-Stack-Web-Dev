@@ -1,0 +1,6 @@
+like ye first video hai to iske liye ek folder banate hai 
+jb bhi folder banana to starting me (folder ke name) me 01, 02 ,03  aise numbering karna nahi to folder upar niche ho jaayega 
+agr folder banane me problem aa raha ho to folder file explorer se bana lena 
+video ko hamesha pip mode me hi dekhna jb code karna ho 
+jb samajh na aaye to video back kar ke dekhna hai 
+aur hamesha video rok kar code karna hai . 
