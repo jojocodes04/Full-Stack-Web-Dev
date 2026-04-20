@@ -4,3 +4,25 @@ agr folder banane me problem aa raha ho to folder file explorer se bana lena
 video ko hamesha pip mode me hi dekhna jb code karna ho 
 jb samajh na aaye to video back kar ke dekhna hai 
 aur hamesha video rok kar code karna hai . 
+
+
+ab har din padhne ke baad code ko github pe push krna hai 
+
+
+uske liye pahle terminial ko open krna hai 
+
+first command :   git add . 
+
+second command :  git commit -u "update code"
+
+last command :   git push
+
+
+
+daily code likhna hai ab 
+
+no cheating 
+no skip 
+
+smjhi 
+
