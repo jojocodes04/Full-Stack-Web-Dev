@@ -1,30 +1,42 @@
 # Full Stack Web Development Learning Repository
 
-This repository documents my journey in learning full stack web development through video tutorials.
+This repository documents the learning journey for full stack web development using structured video lessons and hands-on practice.
 
 ## Learning Approach
 
-- Create organized folders for each video lesson with proper numbering (01, 02, 03, etc.)
-- Watch videos in picture-in-picture mode while coding
-- Pause videos when actively coding
-- Rewind videos if concepts are not clear
-- Use file explorer if folder creation issues occur in the editor
+- Organize lessons into numbered folders for clear progression
+- Follow video tutorials while coding alongside the examples
+- Pause and rewind videos to reinforce difficult concepts
+- Keep notes and reminders in `note.txt`
+- Improve each lesson by adding files and comments as the skills grow
 
 ## Project Structure
 
-- `01_Video/`: First lesson - Introduction to HTML
-  - `index.html`: Basic HTML page
-- `02_Video/`: Second lesson (upcoming)
-- `03_Video/`: Third lesson (upcoming)
-- `note.txt`: Learning notes and tips
+- `01_Video/`
+  - `index.html`: Basic introduction to HTML, structure, and tags
+- `02_Video/`
+  - Lesson content to be added as the next topic is covered
+- `03_Video/`
+  - Lesson content to be added as learning progresses
+- `note.txt`
+  - Personal notes, tips, and reminder tasks
 
-## Technologies Learning
+## Technologies in Progress
 
 - HTML
-- CSS (future)
-- JavaScript (future)
-- Backend technologies (future)
+- CSS
+- JavaScript
+- Version control with Git
+- Backend fundamentals (planned)
 
-## Progress
+## Current Status
 
-Currently completed: Basic HTML structure
+- Completed: Basic HTML structure and initial repository setup
+- Next: Add CSS styling and expand the lesson examples in `02_Video` and `03_Video`
+
+## Goals
+
+- Build a strong foundation in front-end development
+- Practice writing clean, well-organized code
+- Gradually add more advanced projects as skills improve
+- Document learning progress clearly within the repository
