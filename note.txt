@@ -47,3 +47,12 @@ abhi mai terminial se batata hu
 isme 3 command use hota hai 
 
 1. git add .
+
+2. git commit -m "update code"
+
+3. git push 
+
+code github pe update 
+
+click kr ke bhi kr skte hai ye easy hai only 3 click 
+
