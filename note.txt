@@ -40,3 +40,10 @@ hame side me bhi dikh rha kon se file me change huaa hai
 side me message ke paas jo star hai na uspe click krenge to git add. ho jaayega 
 
 uske baad jo commit pe click krenge to git commit ho jaayega 
+last git push 
+
+hame sb terminial se krskte hai or click kr ke bhi 
+abhi mai terminial se batata hu 
+isme 3 command use hota hai 
+
+1. git add .
