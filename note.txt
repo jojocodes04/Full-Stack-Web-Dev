@@ -26,3 +26,17 @@ no skip
 
 smjhi 
 
+ab se hoga fix kr diya 
+
+
+kya work nhi kr rha ? 
+okey ?  
+
+
+abhi mai git status kiya to mujhe pata chal gya ki kon kon se file me change huaa hai 
+terminial  me 2 file modified show ho rha hai iska matlb ye hai ki jo code git hub pe hai or jo hamre system me hia usme se 2 fiel me change hua hai 
+
+hame side me bhi dikh rha kon se file me change huaa hai 
+side me message ke paas jo star hai na uspe click krenge to git add. ho jaayega 
+
+uske baad jo commit pe click krenge to git commit ho jaayega 
