@@ -1,12 +1,47 @@
 * {
-    color: rgb(220, 162, 215);
+    font-family: 'Times New Roman';
+}
+ p {
+    text-align: left;
+    color: rgb(52, 109, 209);
+    font-family: cursive;
 }
 
-h1{
-    color: rgb(228, 63, 151);
+#headingid {
+    text-align: center;
+    text-decoration: rgb(73, 11, 242) wavy underline;
+    font-family: cursive;
 }
-button{
-    background-color: red;
-    color: white;
-    
+
+a {
+    text-decoration: none;
+    color: rgb(18, 171, 143);
 }
+
+ #h1 {
+    font-size: 20px;
+    line-height: 15px;
+    text-transform: capitalize;
+}
+ 
+#box {
+    background-color: rgb(105, 85, 187);
+}
+
+.heading {
+    color: red;
+}
+
+ #headingid {
+    text-align: center;
+    text-transform: capitalize;
+ }
+
+ #outer {
+    font-size: 25px;
+ }
+
+    #inner {
+        font-size: 10px;
+    } 
+

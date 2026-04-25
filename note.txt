@@ -46,7 +46,7 @@ hame sb terminial se krskte hai or click kr ke bhi
 abhi mai terminial se batata hu 
 isme 3 command use hota hai 
 
-1. git add .
+1. git .
 
 2. git commit -m "update code"
 
@@ -60,4 +60,9 @@ fir se kr ta hu
 ustime kuchh problem tha 
 dekhna 
 
+ho gye sara code update 
+
+git pe code update ho ya na ho chalega 
+isme jada dimaga nhi lgana hai abhi 
+abhi html css pe ghayan to ye dono to easy hai Js hard thora to try kro sb smajh me aaye nhi to baad me samajhne me or issue hoga okey 
 
