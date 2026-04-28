@@ -1,47 +1,90 @@
 * {
+    margin: 0;
+    padding: 0;
     font-family: 'Times New Roman';
 }
- p {
-    text-align: left;
+
+/* 🔹 Paragraph */
+p {
     color: rgb(52, 109, 209);
     font-family: cursive;
 }
 
-#headingid {
+/* 🔹 FIRST HEADING (center, no box) */
+#mainHeading {
     text-align: center;
-    text-decoration: rgb(73, 11, 242) wavy underline;
-    font-family: cursive;
+    font-size: 20px;
 }
+
+/* 🔹 google Link */
+#googleLink {
+    text-decoration: none;
+    color: rgb(33, 180, 50);
+    margin-right: 50px;
+}
+
+/* 🔹 NORMAL HEADINGS */
+.heading {
+    color: black;
+}
+
+/* 🔹 ONLY THIS HEADING HAS BOX */
+.box-heading {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(186, 127, 174);
+    border: 2px dashed black;
+    text-align: center;
+    line-height: 50px;
+    margin: 10px 0;
+}
+
+/* 🔹 OUTER INNER */
+#outer {
+    font-size: 25px;
+    margin: 20px 0;
+}
+
+#inner {
+    font-size: 12px;
+}
+
+/* 🔹 BOX DIV */
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+/* 🔹 CIRCLE DIV */
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+#navbar {
+     height: 60px; 
+     background-color: #0f1111; 
+    
+    }
+    
+button {
+     background-color: #f08804; 
+    } 
+    
+#logo { 
+    color: #f08804;
+    font-size: 25px; 
+} 
 
 a {
-    text-decoration: none;
-    color: rgb(18, 171, 143);
-}
+     margin-right: 200px; 
+     color: white;
 
- #h1 {
-    font-size: 20px;
-    line-height: 15px;
-    text-transform: capitalize;
-}
- 
-#box {
-    background-color: rgb(105, 85, 187);
-}
-
-.heading {
-    color: red;
-}
-
- #headingid {
-    text-align: center;
-    text-transform: capitalize;
- }
-
- #outer {
-    font-size: 25px;
- }
-
-    #inner {
-        font-size: 10px;
     }
-
