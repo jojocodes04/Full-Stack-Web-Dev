@@ -1,68 +1,12 @@
-like ye first video hai to iske liye ek folder banate hai 
-jb bhi folder banana to starting me (folder ke name) me 01, 02 ,03  aise numbering karna nahi to folder upar niche ho jaayega 
-agr folder banane me problem aa raha ho to folder file explorer se bana lena 
-video ko hamesha pip mode me hi dekhna jb code karna ho 
-jb samajh na aaye to video back kar ke dekhna hai 
-aur hamesha video rok kar code karna hai . 
-
-
-ab har din padhne ke baad code ko github pe push krna hai 
-
-
-uske liye pahle terminial ko open krna hai 
-
 first command :   git add . 
 
 second command :  git commit -u "update code"
 
 last command :   git push
 
-
-
-daily code likhna hai ab 
-
 no cheating 
 no skip 
 
-smjhi 
-
-ab se hoga fix kr diya 
 
 
-kya work nhi kr rha ? 
-okey ?  
-
-
-abhi mai git status kiya to mujhe pata chal gya ki kon kon se file me change huaa hai 
-terminial  me 2 file modified show ho rha hai iska matlb ye hai ki jo code git hub pe hai or jo hamre system me hia usme se 2 fiel me change hua hai 
-
-hame side me bhi dikh rha kon se file me change huaa hai 
-side me message ke paas jo star hai na uspe click krenge to git add. ho jaayega 
-
-uske baad jo commit pe click krenge to git commit ho jaayega 
-last git push 
-
-hame sb terminial se krskte hai or click kr ke bhi 
-abhi mai terminial se batata hu 
-isme 3 command use hota hai 
-
-1. git .
-
-2. git commit -m "update code"
-
-3. git push 
-
-code github pe update 
-
-click kr ke bhi kr skte hai ye easy hai only 3 click 
-
-fir se kr ta hu 
-ustime kuchh problem tha 
-dekhna 
-
-ho gye sara code update 
-
-git pe code update ho ya na ho chalega 
-isme jada dimaga nhi lgana hai abhi 
-abhi html css pe ghayan to ye dono to easy hai Js hard thora to try kro sb smajh me aaye nhi to baad me samajhne me or issue hoga okey 
 
