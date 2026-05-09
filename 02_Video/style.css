@@ -1,4 +1,4 @@
- * {
+* {
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman';
@@ -235,53 +235,92 @@ a {
     text-align: center;
   }
 
-div {
-    height: 100px;
-    width: 100px;
-    display: inline-block;
-    border: 2px solid black;
+  #paragraphid{
     text-align: center;
-}
+  }
 
 #FlexboxContainer {
     height: 200px;
     width: 800px;
     text-align: center;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: row;
+    border: 2px solid black;
+    justify-content: space-evenly;    
+    flex-wrap:wrap;
 }
 
 
 #flexbox1 {
     background-color: aqua;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+    text-align: center;
+    align-self: flex-end;
 }
 
 #flexbox2 {
     background-color: pink;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+    text-align: center;
 }
  
 #flexbox3 {
     background-color: darkkhaki;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+    text-align: center;
 }
 
 #flexbox4 {
     background-color: indianred;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+    text-align: center;
 }
 
 #flexbox5 {
     background-color: slateblue;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+     text-align: center;
 }
 
+/* practice question */
+.classNavbar {
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
 
+li {
+    color: rgb(186, 83, 117);
+}
 
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(130, 187, 189);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-
-
-
-
-
-
-
-
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color:darkcyan;
+}
 
 
