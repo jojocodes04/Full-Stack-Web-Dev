@@ -1,8 +1,12 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman';
-} 
+}  */
+
+body {
+    background-color: rgb(246, 206, 219);
+}
 
 /* 🔹 Paragraph */
 p {
@@ -323,4 +327,70 @@ li {
     background-color:darkcyan;
 }
 
+#mediaId {
+    height: 50px;
+    width: 50px;
+    background-color: palevioletred;
+}
 
+@media (min-width : 600px) {
+    #mediaId {
+        background-color: red;
+    }
+}
+
+#transitionId {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 50%;
+    transition-property: all;
+    transition-duration: 2s;
+    position: absolute;
+    /* transition-timing-function: steps(3); */
+    /* transition-delay: 1s; */
+    /* transform: rotate(45deg);*/
+    animation-name: colorAnimate;
+    animation-duration: 0.25s;
+    /* animation-timing-function: ease-in; */
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+
+} 
+ /*
+#transitionId:hover {
+    background-color: red;
+    color: white;
+    font-size: 20px; 
+     transform: translate(200px); 
+    transform: skew(40deg);
+}
+
+#transitionId:active {
+    background-color: pink;
+} */
+
+@keyframes colorAnimate {
+    from { background-color: aqua;}
+    to { background-color: red;
+    }
+}
+
+#loader {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 20px solid #d984bb;
+    border-top: 20px solid #d15858;
+    animation: spinAnimate 3s ease-in 0s infinite normal;
+}
+
+@keyframes spinAnimate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
